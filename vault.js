@@ -7,7 +7,6 @@ module.exports = function() {
       return null;
     }
     vaultObj.key = value;
-    return value;
   }
 
   function getValue(key){
